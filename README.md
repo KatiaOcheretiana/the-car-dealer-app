@@ -20,6 +20,7 @@ This application provides a search functionality where users can input a vehicle
    ```
 
 2. **Install dependencies:**
+   I use npm, but you can use yarn instead
 
    ```bash
    npm install
